@@ -1,0 +1,5 @@
+buckaroo==0.7.1
+ipython==8.27.0
+jupyter==1.1.1
+jupyterlab==4.2.5
+pandas==2.2.2
